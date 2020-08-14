@@ -1,0 +1,27 @@
+{
+  "name": "Fadhel/PMDocker",
+  "description": "Docker implementation for PocketMine.",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ruben Van Assche",
+      "email": "ruben@spatie.be",
+      "homepage": "https://spatie.be",
+      "role": "Developer"
+    },
+    {
+      "name": "Freek Van der Herten",
+      "email": "freek@spatie.be",
+      "homepage": "https://spatie.be",
+      "role": "Developer"
+    },
+    {
+      "name": "Fadhel",
+      "email": "dimbiskey@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "symfony/process": "^4.0|^5.0"
+  }
+}
