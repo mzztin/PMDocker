@@ -1,8 +1,6 @@
----
 name: PMDocker
 version: 0.0.1
 antigen: Fadhel\PMDocker
-authorr: Fadhel
+author: Fadhel
 php:
   - 7.3
-...
