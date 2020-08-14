@@ -175,7 +175,7 @@ $instance->addFiles($fileOrDirectoryOnHost, $pathInContainer);
 
 #### Adding other functions on the docker instance
 
-The `Spatie\Docker\ContainerInstance` class is [macroable](https://github.com/spatie/macroable). This means you can add extra functions to it.
+The `Fadhel\PMDocker\ContainerInstance` class is [macroable](https://github.com/DimBis/PMDocker/blob/master/src/Fadhel/PMDocker/uitls/Macroable.php). This means you can add extra functions to it.
 
 ````php
 \Fadhel\PMDocker\ContainerInstance::macro('whoAmI', function () {
